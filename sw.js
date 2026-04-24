@@ -13,10 +13,10 @@
  * up the latest code automatically.
  */
 
-// autox-v0.0.0-1777067243898 is replaced at build time by the Vite plugin in vite.config.ts.
+// autox-v0.0.0-1777067676646 is replaced at build time by the Vite plugin in vite.config.ts.
 // During `vite dev` the plugin inserts a timestamp so every dev-server restart
 // also gets a fresh cache key.
-const CACHE_VERSION = 'autox-v0.0.0-1777067243898';
+const CACHE_VERSION = 'autox-v0.0.0-1777067676646';
 
 // ── Install ──────────────────────────────────────────────────────────────────
 self.addEventListener('install', () => {
